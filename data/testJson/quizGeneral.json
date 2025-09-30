@@ -1,0 +1,10 @@
+{
+    "difficultyLevel": "Medium",
+    "questions": [
+        {
+            "question": "What is 2+2?",
+            "answer": "B",
+            "options": ["A", "B", "C", "D"]
+        }
+    ]
+}

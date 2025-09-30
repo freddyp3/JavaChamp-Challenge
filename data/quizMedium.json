@@ -1,0 +1,45 @@
+{
+    "difficultyLevel": "MEDIUM",
+    "questions": [
+        {
+            "question": "Which data type is used to store text in Java?",
+            "answer": "String",
+            "options": [
+                "char",
+                "int",
+                "String",
+                "float"
+            ]
+        },
+        {
+            "question": "Where are objects stored in memory?",
+            "answer": "Heap Memory",
+            "options": [
+                "Heap Memory",
+                "Stack Memory",
+                "Method Area",
+                "Registers"
+            ]
+        },
+        {
+            "question": "Which loop guarantees at least one execution?",
+            "answer": "do-while",
+            "options": [
+                "for",
+                "while",
+                "do-while",
+                "foreach"
+            ]
+        },
+        {
+            "question": "test",
+            "answer": "test",
+            "options": [
+                "test",
+                "test",
+                "test",
+                "test"
+            ]
+        }
+    ]
+}

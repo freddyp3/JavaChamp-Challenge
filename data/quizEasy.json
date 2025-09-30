@@ -1,0 +1,45 @@
+{
+    "difficultyLevel": "EASY",
+    "questions": [
+        {
+            "question": "What type of programming language is Java?",
+            "answer": "Object Oriented",
+            "options": [
+                "Scripting",
+                "Functional",
+                "Object Oriented",
+                "Procedural"
+            ]
+        },
+        {
+            "question": "In what year was Java officially released?",
+            "answer": "1995",
+            "options": [
+                "1991",
+                "1995",
+                "2000",
+                "1985"
+            ]
+        },
+        {
+            "question": "Which component of Java is responsible for running bytecode?",
+            "answer": "JVM",
+            "options": [
+                "JVM",
+                "JRE",
+                "JDK",
+                "JAR"
+            ]
+        },
+        {
+            "question": "Test",
+            "answer": "test",
+            "options": [
+                "test",
+                "test",
+                "test",
+                "test"
+            ]
+        }
+    ]
+}

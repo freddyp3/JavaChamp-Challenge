@@ -1,0 +1,45 @@
+{
+    "difficultyLevel": "HARD",
+    "questions": [
+        {
+            "question": "Which OOP principle allows method overriding?",
+            "answer": "Polymorphism",
+            "options": [
+                "Polymorphism",
+                "Abstraction",
+                "Encapsulation",
+                "Inheritance"
+            ]
+        },
+        {
+            "question": "Which data structure maintains insertion order?",
+            "answer": "LinkedList",
+            "options": [
+                "ArrayList",
+                "LinkedList",
+                "HashMap",
+                "HashSet"
+            ]
+        },
+        {
+            "question": "Which keyword prevents thread interference?",
+            "answer": "synchronized",
+            "options": [
+                "final",
+                "static",
+                "volatile",
+                "synchronized"
+            ]
+        },
+        {
+            "question": "test",
+            "answer": "test",
+            "options": [
+                "test",
+                "test",
+                "test",
+                "test"
+            ]
+        }
+    ]
+}

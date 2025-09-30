@@ -211,3 +211,6 @@ In my UML diagram I just want to state that big green C = Class and the big purp
 2. **Implement Strategy Pattern for Question Types**: The Question class currently only supports multiple-choice questions however if in the future I want to add different type of questions it would be complicated to do so. A better design would be to create an abstract Question interface and different concrete implementations (MultipleChoiceQuestion, TrueFalseQuestion, etc.). This would make it easier to add new question types in the future.
 
 These changes would make the code easier to maintain and more flexible for future updates. The downside is that the code might look a bit more complex at first, but the better structure and modular design will be worth it in the long run. 
+
+
+Uploaded from old github
